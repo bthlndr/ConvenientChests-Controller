@@ -1,0 +1,16 @@
+{
+  "Name": "Convenient Chests 2 Controller Support",
+  "Author": "bthlndr",
+  "Version": "0.1.0",
+  "Description": "Adds controller navigation to Convenient Chests 2 side buttons and custom menus.",
+  "UniqueID": "bthlndr.ConvenientChestsController",
+  "MinimumApiVersion": "4.4.0",
+  "EntryDll": "ConvenientChestsController.dll",
+  "Dependencies": [
+    {
+      "UniqueID": "SummerFleur.ConvenientChests",
+      "MinimumVersion": "2.0.4",
+      "IsRequired": true
+    }
+  ]
+}
